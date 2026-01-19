@@ -1,5 +1,4 @@
-# Welcome to GitHub Desktop!
+Project Description ( Simple & Clear)
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Medicine Information System
+A software application where users enter the name of a medicine and receive complete details including its description , uses, dosage, side effects, and precautions. The system retrieves accurate information from a structured database and displays it instantly to the user.

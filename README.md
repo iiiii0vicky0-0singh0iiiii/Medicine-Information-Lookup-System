@@ -17,9 +17,6 @@ A web-based medicine lookup system that retrieves drug information from trusted 
 - API: Public medical data API
 - Server: Apache (XAMPP / Localhost)
 
-## 📸 Screenshots
-
-_Add screenshots here to showcase the UI and search results._
 
 ## ⚙️ Installation & Setup
 

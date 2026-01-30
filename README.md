@@ -22,4 +22,4 @@ A web-based medicine lookup system that retrieves drug information from trusted 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/medicine-lookup-system.git
+   git clone https://github.com/iiiii0vicky0-0singh0iiiii/medicine-lookup-system.git

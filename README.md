@@ -12,10 +12,10 @@ A web-based medicine lookup system that retrieves drug information from trusted 
 
 ## 🛠️ Technologies Used
 
-- Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript 
 - Backend: PHP
 - API: Public medical data API
-- Server: Apache (XAMPP / Localhost)
+- Server: Apache (XAMPP / Localhost) + deployed website
 
 
 ## ⚙️ Installation & Setup
